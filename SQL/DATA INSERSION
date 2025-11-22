@@ -1,0 +1,5 @@
+-- inser values to db and retrive the data from the db
+
+INSERT INTO tasks(title) VALUES ('today task 1'),('monday task 2'),('monday task 3'),('monday task 4');
+
+SELECT * FROM tasks
